@@ -24,23 +24,6 @@ Exemplos de como tornar seu repositório mais atrativo, acessível e organizado.
 
 ---
 
-## 📁 Estrutura do repositório
-
-\`\`\`bash
-dicas-github/
-├── comandos-basicos/
-│   └── readme.md
-├── boas-praticas/
-│   └── estrutura-readme.md
-├── usando-imagens/
-│   └── readme.md
-├── criando-repositorio/
-│   └── passo-a-passo.md
-└── README.md ← este arquivo que você está lendo!
-\`\`\`
-
----
-
 ## 🌐 Para quem é este repositório?
 
 - Estudantes que estão começando a explorar o GitHub
