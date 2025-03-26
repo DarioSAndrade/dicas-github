@@ -26,7 +26,7 @@ Este guia é voltado para iniciantes e também para profissionais experientes qu
 
 ## 📘 Tutorial completo
 
-Confira o passo a passo no nosso artigo completo (link será disponibilizado quando postado no blog):
+Confira o passo a passo no nosso artigo completo: https://programacaoindesign.blogspot.com/2025/03/como-publicar-seu-portfolio-pessoal.html
 
 > Neste repositório você encontrará os arquivos prontos para editar e usar em seu portfólio pessoal com GitHub Pages.
 
