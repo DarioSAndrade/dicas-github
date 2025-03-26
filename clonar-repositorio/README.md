@@ -23,7 +23,7 @@ Navegue até o repositório que você quer clonar. Exemplo: `https://github.com/
 
 Escolha a opção HTTPS e copie o link exibido.
 
-![Passo 1](imagens/passo1.png)
+![Passo 1](Imagens/passo1.png)
 
 ### 3. Abra o terminal (ou Git Bash) e execute o comando:
 
